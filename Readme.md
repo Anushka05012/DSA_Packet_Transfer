@@ -23,12 +23,12 @@ Each computer is simulated as a node with its own text file (`computer_X.txt`) r
 
 ## 📂 File Structure
 
-📁 project/
-├── main.c # Source code
-├── network.txt # Persistent network structure (auto-created)
-├── computer_0.txt # Files created per computer (auto-created)
-├── network.dot # Graphviz export file
-└── README.md # This file
+📁 project/ <br>
+├── main.c # Source code <br>
+├── network.txt # Persistent network structure (auto-created) <br>
+├── computer_0.txt # Files created per computer (auto-created) <br>
+├── network.dot # Graphviz export file <br>
+└── README.md # This file <br>
 
 ---
 ## 💽 Menu Options
